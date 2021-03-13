@@ -1,5 +1,5 @@
 import loganlines from "./loganlines.json"
-import config from "./config.json"
+import config from "./botconfig.json"
 //importing the Client Interface from discord.js
 import {Client} from "discord.js"
 //creating a client, duh
